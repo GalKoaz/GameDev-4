@@ -2,6 +2,8 @@
 
 Version Unity : 2021.3.18f1
 
+Itch.io: [https://galkoaz.itch.io/spaceship](https://galkoaz.itch.io/spaceship)
+
 The Changes in the game that I made:
 
 * The shield is not on the screen at the beginning, but appears from time to time at a random point. When the player collides with the shield, added
