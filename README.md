@@ -1,7 +1,5 @@
 # GameDev-4
 
-### Details 
-
 Version Unity : 2021.3.18f1
 
 The Changes in the game that I made:
